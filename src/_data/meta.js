@@ -1,8 +1,8 @@
 module.exports = {
   url: process.env.URL || "http://localhost:8080",
-  siteName: "11ty Netlify Jumpstart",
+  siteName: "DMNWA 2020 - VNC INDIA",
   siteDescription:
-    "Quickly launch an 11ty-generated static site. Includes a minimal Sass framework, and generated sitemap, RSS feed, and social share preview images.",
-  authorName: "Stephanie Eckles",
-  twitterUsername: "5t3ph", // no `@`
+    "Duleep Matthai Nature Writing Award 2020, organized by Voluntary Nature Conservancy.",
+  authorName: "Jeet",
+  twitterUsername: "vncindiaofficial", // no `@`
 };
